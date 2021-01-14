@@ -1,0 +1,12 @@
+body{
+    background-image: linear-gradient(white,grey);
+}
+
+.card-header{
+    background-color: cornflowerblue;
+}
+
+.employee-card{
+    margin: 3px auto;
+}
+
